@@ -1,0 +1,21 @@
+body {
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input.text {
+    height: 30px;
+    font-size: 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+button {
+    height: 35px;
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: red;
+}

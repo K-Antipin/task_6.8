@@ -1,0 +1,25 @@
+body {
+    background: url('../img/copybook.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    margin-left: 150px;
+}
+
+p {
+    font-size: 60px;
+    position: relative;
+    bottom: 15px;
+}
+
+a {
+    font-size: 50px;
+}
+
+li {
+    position: relative;
+    margin-bottom: 3px;
+    bottom: 16px;
+}
